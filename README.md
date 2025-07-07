@@ -1,2 +1,2 @@
 # Agent
-microserviço de integração com OpenAi
+microserviço de integração com LLM
